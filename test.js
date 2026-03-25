@@ -29,7 +29,7 @@ async function prodeuts() {
               <h4 class="price"> Prie: ${item.price}</h4>
               <p>${item.description}</p>
               <div class="btn">
-               <a href="second.html?id=${item.id}" class="btn">view</a>
+               <a href="product.html?id=${item.id}" class="btn">view</a>
                </div>
                
        </div>

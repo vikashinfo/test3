@@ -18,12 +18,11 @@ body {
 }
 
 .card {
-  background-color: #f0f0f0;
   border-radius: 10px;
+  width: 300px;
 
-  width: 100%;
   padding: 10px;
-  box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);
 }
 
 .card-img-top {
@@ -36,4 +35,16 @@ body {
 .category {
   color: #f03232;
   letter-spacing: 1px;
+}
+
+.select {
+  width: 160px;
+  background-color: #ffff;
+  margin-top: 10px;
+  font-size: 15px;
+  border-radius: 8px;
+  padding: 2px;
+}
+.discout {
+  color: firebrick;
 }
