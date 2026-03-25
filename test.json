@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "category": "Electronics",
+      "subcategory": "Audio",
+      "price": 2999,
+      "originalPrice": 3999,
+      "discount": 25,
+      "rating": 4.5,
+      "totalReviews": 1245,
+      "brand": "SoundPro",
+      "inStock": true,
+      "quantity": 50,
+      "colors": ["Black", "White", "Blue"],
+      "features": [
+        "40-hour battery life",
+        "Noise cancellation",
+        "Bluetooth 5.0"
+      ],
+      "description": "High-quality wireless headphones with active noise cancellation and deep bass.",
+      "imageUrl": "https://media.istockphoto.com/id/1129342275/photo/enjoying-his-favorite-music.jpg?s=612x612&w=0&k=20&c=_ZQGnCMOJNB1AplPnmzu8wQbpetH-n5wX8Ex3TD4YRI="
+    },
+    {
+      "id": 2,
+      "name": "Men's Cotton T-Shirt",
+      "category": "Clothing",
+      "subcategory": "T-Shirts",
+      "price": 799,
+      "originalPrice": 1299,
+      "discount": 38,
+      "rating": 4.2,
+      "totalReviews": 856,
+      "brand": "FashionHub",
+      "inStock": true,
+      "quantity": 200,
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "colors": ["Red", "Blue", "Black", "White"],
+      "description": "Premium quality cotton t-shirt, soft and comfortable for daily wear.",
+      "imageUrl": "https://media.istockphoto.com/id/1951834143/photo/hoodie.jpg?s=612x612&w=0&k=20&c=kccr3nSluFec25VMvxyHzgxVJdYYTLF_ZnHez7D8wAU="
+    },
+    {
+      "id": 3,
+      "name": "Smart Watch Series 5",
+      "category": "Electronics",
+      "subcategory": "Wearables",
+      "price": 12999,
+      "originalPrice": 15999,
+      "discount": 18,
+      "rating": 4.7,
+      "totalReviews": 2341,
+      "brand": "TechWear",
+      "inStock": true,
+      "quantity": 30,
+      "colors": ["Black", "Silver", "Gold"],
+      "features": [
+        "Heart rate monitor",
+        "GPS tracking",
+        "Water resistant",
+        "7-day battery life"
+      ],
+      "description": "Advanced smartwatch with fitness tracking and notifications.",
+      "imageUrl": "https://media.istockphoto.com/id/1286099765/photo/close-up-of-hand-touching-smartwatch-with-health-app-on-the-screen-gadget-for-fitness-active.jpg?s=612x612&w=0&k=20&c=T1ufyTQBhKl-VzNsJEIbgLCZSStFbldTy2RECo67Csg="
+    },
+    {
+      "id": 4,
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "subcategory": "Sports Shoes",
+      "price": 3499,
+      "originalPrice": 4999,
+      "discount": 30,
+      "rating": 4.4,
+      "totalReviews": 567,
+      "brand": "SportyFeet",
+      "inStock": false,
+      "quantity": 0,
+      "sizes": [7, 8, 9, 10, 11],
+      "colors": ["Gray", "Blue", "Red"],
+      "description": "Lightweight running shoes with cushioning for maximum comfort.",
+      "imageUrl": "https://media.istockphoto.com/id/1436061606/photo/flying-colorful-womens-sneaker-isolated-on-white-background-fashionable-stylish-sports-shoe.jpg?s=612x612&w=0&k=20&c=2KKjX9tXo0ibmBaPlflnJNdtZ-J77wrprVStaPL2Gj4="
+    },
+    {
+      "id": 5,
+      "name": "Backpack Laptop Bag",
+      "category": "Accessories",
+      "subcategory": "Bags",
+      "price": 1899,
+      "originalPrice": 2499,
+      "discount": 24,
+      "rating": 4.6,
+      "totalReviews": 432,
+      "brand": "TravelMate",
+      "inStock": true,
+      "quantity": 75,
+      "colors": ["Black", "Grey", "Navy Blue"],
+      "features": [
+        "Fits up to 15.6 inch laptop",
+        "Water resistant",
+        "USB charging port",
+        "Multiple compartments"
+      ],
+      "description": "Stylish and durable backpack perfect for office and travel.",
+      "imageUrl": "https://media.istockphoto.com/id/177005314/photo/laptop-bag.jpg?s=612x612&w=0&k=20&c=P2LfzrmxqSYrY7-ZVwGnf-rKTHlhofcjP5dJKGG96cQ="
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "icon": "📱",
+      "subcategories": ["Audio", "Wearables", "Mobiles", "Laptops"]
+    },
+    {
+      "id": 2,
+      "name": "Clothing",
+      "icon": "👕",
+      "subcategories": ["T-Shirts", "Shirts", "Jeans", "Winter Wear"]
+    },
+    {
+      "id": 3,
+      "name": "Footwear",
+      "icon": "👟",
+      "subcategories": [
+        "Sports Shoes",
+        "Casual Shoes",
+        "Sandals",
+        "Formal Shoes"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Accessories",
+      "icon": "👜",
+      "subcategories": ["Bags", "Watches", "Sunglasses", "Jewelry"]
+    }
+  ]
+}
